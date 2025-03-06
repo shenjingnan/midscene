@@ -108,4 +108,4 @@ midscene_run
 midscene_run/report
 midscene_run/dump
 
-local
+packages/chrome-extension
